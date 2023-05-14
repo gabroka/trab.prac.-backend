@@ -1,0 +1,10 @@
+com\porfolio\spring8\Dto\dtoExperiencia.class
+com\porfolio\spring8\Interface\IPersonaService.class
+com\porfolio\spring8\Spring8Application.class
+com\porfolio\spring8\Service\ImpPersonaService.class
+com\porfolio\spring8\Service\SExperiencia.class
+com\porfolio\spring8\Entity\Experiencia.class
+com\porfolio\spring8\Controller\PersonaController.class
+com\porfolio\spring8\Entity\Persona.class
+com\porfolio\spring8\Repository\RExperiencia.class
+com\porfolio\spring8\Repository\IPersonaRepository.class
